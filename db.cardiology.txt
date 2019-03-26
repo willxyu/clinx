@@ -1,0 +1,182 @@
+## Cardiology, Patent Ductus Arteriosus %%
+Signs of patent ductus arteriosus?
+: Continuous pulmonary murmur
+: ± Mitral area, mid-diastolic murmur
+
+## Cardiology, Ventricular Septal Defect %%
+Signs of ventricular septal defect?
+: Systolic thrill
+: Left lower sternal edge, harsh pansystolic murmur
+: ± Mitral area, mid-diastolic murmur
+
+## Cardiology, Atrial Septal Defect %%
+Signs of atrial septal defect?
+: Wide, fixed split S2
+: ± Tricuspid area, mid-diastolic murmur
+
+## Cardiology, Pulmonary Stenosis %%
+Signs of pulmonary stenosis?
+: Late peaking, ejection systolic murmur
+: Loss of ejection click (severe)
+: Ejection click (non-severe)
+: S4, right-heart
+: Signs of right ventricular failure
+
+## Cardiology, Tricuspid Regurgitation %%
+Signs of tricuspid regurgitation?
+: Large v-waves, JVP
+: Right ventricular heave
+: Pansystolic murmur at left lower sternal edge
+: Large pulsatile liver
+: Ascites & oedema
+
+## Cardiology, Mitral Valve Prolapse %%
+Signs of mitral valve prolapse?
+: High pitched, late systolic murmur
+
+## Cardiology, Aortic regurgitation %%
+Signs of aortic regurgitation?
+: Collapsing pulse
+: Wide pulse pressure (more than 80 mmHg)
+: Long decrescendo diastolic murmur
+: S3
+: Soft A2
+: Apex, low-pitched mid-diastolic rumble
+: Signs of left ventricular failure
+
+## Cardiology, Mitral Regurgitation %%
+Signs of mitral regurgitation?
+: Small volume pulse
+: Displaced, forceful apex beat
+: Pansystolic murmur radiating to axilla
+: S3
+: Soft S1
+: Early A2
+: Early diastolic rumble
+: Atrial fibrillation
+: Signs of left ventricular failure
+
+## Cardiology, Mitral Stenosis %%
+Signs of mitral stenosis?
+: Small pulse pressure
+: Soft S1
+: Early opening snap
+: Long diastolic murmur
+: Diastolic thrill at apex beat
+: Signs of pulmonary hypertension
+
+## Cardiology, Aortic Stenosis %%
+Signs of aortic stenosis?
+: Slow rising pulse
+: S4
+: Reverse S2 split
+: Late peaking murmur
+: Displaced apex beat
+: Aortic thrill
+
+## Cardiology, Pulmonary Regurgitation %%
+Signs of pulmonary regurgitation?
+: Descrescendo diastolic murmur
+: High pitch
+: Same signs as aortic regurgitation
+
+## Cardiology, Valsalva Maneuver %%
+Louder systolic murmur with Valsalva?
+: Hypertrophic obstructive cardiomyopathy
+
+## Cardiology, Valsalva Maneuver %%
+Softer systolic murmur with Valsalva, which maneuver next?
+: Aortic stenosis or mitral regurgitation
+: Hand grip, softer Aortic Stenosis, louder mitral regurgitation
+
+## Cardiology, Handgrip %%
+Softer systolic murmur with handgrip, & explain?
+: Hypertrophic obstructive cardiomyopathy or aortic stenosis or mitral valve prolapse
+: Increased systemic arterial resistance & heart size, reduced murmur intensity of HOCM
+: Pressure gradient reduction across aortic valve, reduced murmur intensity of AS
+: Increased ventricular volume, reduced murmur intensity of MVP
+
+## Cardiology, Standing-to-squatting %%
+Softer systolic murmr, & explain?
+: Hypertrophic obstructive cardiomyopathy
+: Increased preload & ventricular size, thus reducing systolic HOCM murmur
+
+## Cardiology, Primary Tricuspid Regurgitation %%
+Causes of primary tricuspid regurgitation
+: Infective endocarditis
+: Carcinoid
+: Myxomatous degeneration
+: Connective tissue disease
+: Deceleration injury
+: PPM insertion injury
+: Hyperthyroidism
+: Ebstein's anomaly
+
+## Cardiology, Pulmonary Stenosis %%
+Causes of pulmonary stenosis
+: Congenital, Tetralogy of Fallot, Noonan syndrome, Congenital rubella syndrome, Williams disease
+: Carcinoid syndrome
+
+## Cardiology, Tricuspid Stenosis %%
+Causes of tricuspid stenosis
+: Rheumatic heart disease
+
+## Cardiology, Pulmonary Regurgitation %%
+Causes of pulmonary regurgitation
+: Pulmonary hypertension
+: Infective endocarditis
+: Post surgical change for pulmonary atresia
+: Congenital absence
+
+## Cardiology, Mitral Stenosis %%
+Causes of mitral stenosis
+: rheumatic heart disease
+: congenital parachute valve (rare)
+
+## Cardiology, Mitral Regurgitation %%
+Causes of mitral regurgitation, chronic
+: Mitral valve prolapse
+: Degenerative disease
+: Rheumatic heart disease
+: Papillary muscle dysfunction secondary to left ventricular failure
+: Cardiomyopathy, hypertrophic/dilated/restrictive
+: Connective tissue diseases such as Marfan's, rheumatoid arthritis, ankylosing spondylitis
+: Congenital, atrioventricular canal defect
+
+## Cardiology, Mitral Valve Prolapse %%
+Causes of mitral valve prolapse
+: Myxomatous degeneration
+: Atrial septal defect (secundum)
+: Hypertrophic cardiomyopathy
+: Marfan's syndrome
+
+## Cardiology, Aortic Stenosis %%
+Causes of aortic stenosis
+: Degenerative calcific disease
+: Congenital bicuspid valve with calcific disease
+: Rheumatic heart disease
+: Supravalvular obstruction, i.e. facies wide set eyes, broad forehead, pointed chin, loud A2, sternal notch thrill
+: Subvalvular obstruction, i.e. jet lesion of the coronary cusp
+: Dynamic LVOT in HOCM w double apical impulse in sinus
+
+## Cardiology, Aortic Regurgitation %%
+Causes of aortic regurgitation
+: Rheumatic heart disease
+: Congenital bicuspid valve
+: Seronegative arthropathy, i.e. ankylosing spondylitis
+: Aortic root dilatation, i.e. Marfan's
+: Aortitis from seronegative arthropathy, i.e. rheumatoid arthritis, tertiary syphilis
+
+## Cardiology, Tetralogy of Fallot %%
+Four features of tetralogy of Fallot
+: Ventricular septal defect
+: Right ventricular outflow tract obstruction
+: Overriding aorta causing cyanosis
+: Right ventricular hypertrophy
+
+## Cardiology, Tetralogy of Fallot %%
+Describe steps of surgical correction of tetralogy of Fallot, & subsequent exam findings
+: Patch closure of ventricular septal defect
+: Enlargement of the right ventricular outflow tract
+: May include relieving pulmonary annular narrowing (stenosis)
+: Subsequently, may develop pulmonary regurgitation (high-pitched descrescendo diastolic murmur, surgical scars)
