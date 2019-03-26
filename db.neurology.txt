@@ -42,5 +42,5 @@ Signs of medial medullary syndrome?
 
 ## Neurology, Posterior Cord Syndrome %%
 Posterior cord syndrome?
-: Bilateral vibration & proprioceptive loss
-: Preserved motor function
+- Bilateral vibration & proprioceptive loss
+- Preserved motor function
