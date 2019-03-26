@@ -1,0 +1,51 @@
+## Abdominal, Hepatomegaly %%
+Causes of hepatomegaly?
+- Metastases
+- Hepatocellular carcinoma
+- Alcoholic liver disease with fatty infiltration
+- Right heart failure
+- Myeloproliferative disease
+- Haemochromatosis
+- CML, lymphoma
+- NAFLD, NASH
+- Hepatitis (drugs, infection)
+- Infiltrative (amyloid, sarcoid)
+- Cirrhosis
+- Granulomatous disease
+- Biliary obstruction
+- Hydatid disease
+- HIV, ischaemia
+
+## Abdominal, Splenomegaly %%
+Causes of splenomegaly?
+- CML
+- Myelofibrosis
+- Hairy cell lymphoma
+- Kala-azar
+- Malaria
+- Portal hypertension
+- Lymphoma
+- Leukemia
+- Thalassaemia
+- Gaucher's disease
+- PRV, ET
+- Anaemias: megaloblastic/hemolytic
+- Infective: CMV, EBV, IE
+- Infiltrative: Sarcoid, amyloid
+- Connective: SLE, RA, PAN
+
+## Abdominal, Hepatosplenomegaly %%
+Causes of hepatosplenomegaly?
+- Chronic liver disease with portal hypertension
+- Haematological: Myeloproliferative disease, lymphoma, leukemia, pernicious anaemia, sickle cell
+- Infection: Hepatitis, glandular fever, CMV
+- Infiltrative: Sarcoidosis, amyloidosis
+- Connective: SLE
+- Acromegaly
+- Thyrotoxicosis
+
+## Abdominal, Pulsatile Liver %%
+Causes of pulsatile liver?
+- Tricuspid regurgitation
+- Hepatocellular carcinoma
+- Arteriovenous malformations
