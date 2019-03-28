@@ -1,18 +1,18 @@
-## Endocrine, Acromegaly $$
+## Endocrine, Acromegaly %%
 Describe acromegalic facies?
 - Frontal bossing
 - Prognathism
 - Teeth splaying
 - Macroglossia
 
-## Endocrine, Frontal Bossing $$
+## Endocrine, Frontal Bossing %%
 Aside from acromegaly, what else causing frontal bossing?
 - Rickets
 - Paget's disease
 - Hydrocephalus
 - Achondroplasia
 
-## Endocrine, Acromegaly $$
+## Endocrine, Acromegaly %%
 Active acromegaly?
 - Skin tags
 - Sweating
@@ -22,7 +22,7 @@ Active acromegaly?
 - Hypertension
 - Headache
 
-## Endocrine, Goitre $$
+## Endocrine, Goitre %%
 Causes of diffuse goitre?
 - Idiopathy
 - Pregnancy, post-partum
@@ -32,7 +32,7 @@ Causes of diffuse goitre?
 - Iodine excess, drugs (lithium, phenylbutazone)
 - Pendred's syndrome
 
-## Endocrine, Thyrotoxicosis $$
+## Endocrine, Thyrotoxicosis %%
 Causes of thyrotoxicosis?
 - Graves' disease
 - Toxic adenoma
@@ -43,7 +43,7 @@ Causes of thyrotoxicosis?
 - Iatrogenic
 - Amiodarone/Lithium
 
-## Endocrine, Hypothyroidism $$
+## Endocrine, Hypothyroidism %%
 Causes of hypothyroidism?
 - Large goitre
 -- Chronic thyroiditis
@@ -60,7 +60,7 @@ Causes of hypothyroidism?
 - Subacute thyroiditis
 - Postpartum thyroiditis
 
-## Endocrine, Goitre $$
+## Endocrine, Goitre %%
 What features are important to describe in examining a goitre?
 - Moves with swallowing
 - Tenderness (subacute thyroiditis)
