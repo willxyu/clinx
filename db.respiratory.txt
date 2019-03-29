@@ -17,3 +17,22 @@ Causes for a pleural transudate?
 - Liver failure
 - Meigs' syndrome (ovarian fibroma)
 - Hypothyroidism
+
+## Respiratory, Pulmonary Fibrosis %%
+Causes of lower lobe fibrosis?
+- Rheumatoid arthritis
+- Asbestosis
+- Scleroderma
+- Crytogenic fibrosing alveolitis
+- Bleomycin/Nitrofurantoin/Hydralazine/Methotrexate
+
+## Respiratory, Pulmonary Fibrosis %%
+Causes of upper lobe fibrosis?
+- Silicosis
+- Sarcoidosis
+- Pneumoconiosis
+- Histiocytosis
+- Ankylosing spondylitis
+- Tuberculosis
+- Allergic bronchopulmonary aspergillosis
+- Radiation
