@@ -180,3 +180,27 @@ Describe steps of surgical correction of tetralogy of Fallot, & subsequent exam 
 - Enlargement of the right ventricular outflow tract
 - May include relieving pulmonary annular narrowing (stenosis)
 - Subsequently, may develop pulmonary regurgitation (high-pitched descrescendo diastolic murmur, surgical scars)
+
+## Cardiology, Widely Split S2 %%
+Causes of widely split S2
+- Dyssynchrony with a slower right conduction system: RBBB, Left ventricular pre-excitation, left ventricular pacing
+- Pulmonary stenosis
+- Pulmonary hypertension
+
+## Cardiology, Paradoxically Split S2 %%
+Causes of paradoxically split S2
+- Definition is accentuated on expiration rather than inspiration
+- Dyssynchrony with a slower left conduction system: LBBB, Right ventricular pre-excitation, right ventricular pacing
+- Aortic stenosis
+
+## Cardiology, Fixed S2 %%
+Causes of fixed S2
+- Atrial septal defect (continuous, lengthened right)
+- Right heart failure
+- Pulmonary hypertension
+
+## Cardiology, Single S2 %%
+Causes of single S2
+- Severe aortic stenosis
+- Severe aortic regurgitation
+- Congenital absence of pulmonic valve
