@@ -55,3 +55,18 @@ Failure of light reflex, normal accomodation?
 - Midbrain lesion
 - Ciliary ganglion lesion
 - Parinaud syndrome
+
+## Neurology, Trigeminal %%
+What are the divisions of the trigeminal nerve?
+- Opthalmic
+- Maxillary
+- Mandibular
+
+## Neurology, Trigeminal %%
+Which branch of the trigeminal nerve mediates the corneal reflex?
+- Opthalmic branch of trigeminal
+
+## Neurology, Trigeminal %%
+Disassociation of sensory modalities in the trigeminal nerve suggests a location?
+- Loss of small fibre sensation (pain, temperature) = Medulla/Upper cervical cord
+- Loss of light touch with intact small fibre = Pontine/Mesencephalic nuclei
