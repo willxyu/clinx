@@ -44,3 +44,14 @@ Signs of medial medullary syndrome?
 Posterior cord syndrome?
 - Bilateral vibration & proprioceptive loss
 - Preserved motor function
+
+## Neurology, Accomodation %%
+Failure of accomodation?
+- Midbrain lesion
+- Cortical blindness
+
+## Neurology, Accomodation %%
+Failure of light reflex, normal accomodation?
+- Midbrain lesion
+- Ciliary ganglion lesion
+- Parinaud syndrome
