@@ -70,3 +70,7 @@ Which branch of the trigeminal nerve mediates the corneal reflex?
 Disassociation of sensory modalities in the trigeminal nerve suggests a location?
 - Loss of small fibre sensation (pain, temperature) = Medulla/Upper cervical cord
 - Loss of light touch with intact small fibre = Pontine/Mesencephalic nuclei
+
+## Neurology, Facial %%
+Facial paralysis with preserved emotional response suggests?
+- Cortical lesion affecting facial muscles
