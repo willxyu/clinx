@@ -67,12 +67,12 @@ Signs of mitral stenosis?
 
 ## Cardiology, Aortic Stenosis %%
 Signs of aortic stenosis?
-- Slow rising pulse
-- S4
-- Reverse S2 split
 - Late peaking murmur
-- Displaced apex beat
+- Reverse S2 split
+- S4
 - Aortic thrill
+- Displaced apex beat
+- Slow rising pulse
 
 ## Cardiology, Pulmonary Regurgitation %%
 Signs of pulmonary regurgitation?
