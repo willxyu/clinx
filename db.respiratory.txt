@@ -28,11 +28,11 @@ Causes of lower lobe fibrosis?
 
 ## Respiratory, Pulmonary Fibrosis %%
 Causes of upper lobe fibrosis?
-- Silicosis
-- Sarcoidosis
-- Pneumoconiosis
 - Histiocytosis
 - Ankylosing spondylitis
+- Silicosis
 - Tuberculosis
-- Allergic bronchopulmonary aspergillosis
 - Radiation
+- Allergic bronchopulmonary aspergillosis
+- Pneumoconiosis
+- Sarcoidosis
