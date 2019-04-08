@@ -74,3 +74,14 @@ Disassociation of sensory modalities in the trigeminal nerve suggests a location
 ## Neurology, Facial %%
 Facial paralysis with preserved emotional response suggests?
 - Cortical lesion affecting facial muscles
+
+## Neurology, Parkinson's %%
+Causes of Parkinson's
+- Medications such as methyldopa, phenothiazines
+- Idiopathic Parkinson's disease
+- Post-encephalitis
+- Wilson's disease
+- Toxins such as carbon monoxide or manganese
+- Syphilis
+- Multi-system atrophy (Shy-Drager syndrome: ataxia, parkinson's, autonomic failure)
+- Steel-Richardson syndrome: PSP, neck dystonia, pseudobulbar palsy, dementia
