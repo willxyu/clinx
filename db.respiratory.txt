@@ -18,6 +18,19 @@ Causes for a pleural transudate?
 - Meigs' syndrome (ovarian fibroma)
 - Hypothyroidism
 
+## Respiratory, Effusion %%
+What is Light's criteria?
+- To determine whether an effusion is transudate vs exudate
+- Pleural protein/Serum protein > 0.5
+- Pleural LDH/Serum LDH > 0.6
+- Pleural LDH > 2/3 upper limit of normal Serum LDH
+
+## Respiratory, Effusion %%
+Other criteria for assessing effusions?
+- Pleural cholesterol > 1.165 mmol/L
+- Pleural LDH > 0.45 upper limit of normal Serum LDH
+- Pleural protein > 29 g/L
+
 ## Respiratory, Pulmonary Fibrosis %%
 Causes of lower lobe fibrosis?
 - Rheumatoid arthritis
@@ -36,3 +49,65 @@ Causes of upper lobe fibrosis?
 - Allergic bronchopulmonary aspergillosis
 - Pneumoconiosis
 - Sarcoidosis
+
+## Respiratory, Pulmonary Fibrosis %%
+Radiological findings of UIP?
+- Subpleural, bibasal reticular opacities
+- Traction bronchiectasis
+- Honeycombing
+
+## Respiratory, COPD %%
+Diagnostic criteria for COPD?
+- FEV1/FVC ratio < 0.7
+- Irreversible/partially bronchodilator responsive (deltaFEV1 <= 400mL)
+- Presence of typical symptoms and risk factors (dyspnoea, cough +/- productive, smoking)
+
+## Respiratory, COPD %%
+Severity of COPD?
+- Mild:
+- Few symptoms
+- Dyspnoea on moderate exertion
+- Little to no effect on ADLs
+- FEV1 ~ 60 - 80% predicted
+- Moderate:
+- Increasing dyspnoea
+- SOB walking flats
+- Cough & sputum
+- Infections with steroid use
+- FEV1 ~ 40 - 59% predicted
+- Severe:
+- Dyspnoea on minimal exertion
+- Severely limited ADLs
+- Chronic cough
+- FEV1 < 40% predicted
+
+## Respiratory, Bronchiectasis %%
+Causes of bronchiectasis?
+- Pulmonary infections, esp. Childhood recurrent infections, Mycobacterial, Nocardia
+- Primary ciliary dysfunction, e.g. Kartagener's
+- CF
+- ABPA
+- Airway obstruction, e.g. foreign body, tumour
+- Primary or secondary immunodeficiency, e.g. hypogammaglobulinaemia
+
+## Respiratory, Lobectomy %%
+Indications for a lobectomy?
+- Bronchiectasis
+- Malignancy
+- TB
+- Lung abscess
+- CF
+- Unknown solitary lung nodule
+
+## Respiratory, Pulmonary Hypertension %%
+Signs of pulmonary hypertension?
+- Loud P2
+- Palpable P2 (severe)
+- Prominent a waves
+- Prominent v waves (once TR occurs)
+- RV heave
+- TR murmur
+- PS murmur
+- PR murmur (severe)
+- Pulsatile liver
+- Peripheral oedema

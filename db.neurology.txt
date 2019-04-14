@@ -85,3 +85,19 @@ Causes of Parkinson's
 - Syphilis
 - Multi-system atrophy (Shy-Drager syndrome: ataxia, parkinson's, autonomic failure)
 - Steel-Richardson syndrome: PSP, neck dystonia, pseudobulbar palsy, dementia
+
+## Neurology, Horner's %%
+Signs of Horner's syndrome?
+- Partial ptosis
+- Miosis (small pupils)
+- Anhydrosis
+
+## Neurology, Horner's %%
+Causes of Horner's
+- Lateral medullary Syndrome
+- Apical Lung Malignancy
+- Thyroid Malignancy
+- Internal carotid artery dissection
+- ICA aneurysm
+- Endarterectomy complication
+- Demyelinating disorder

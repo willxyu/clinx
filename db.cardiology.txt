@@ -81,6 +81,12 @@ Signs of pulmonary regurgitation?
 - Same signs as aortic regurgitation
 
 ## Cardiology, Valsalva Maneuver %%
+Physiology of Valsalva Maneuver?
+- Increased intrathoracic & intraabdominal pressure
+- Reduced venous return to R heart (i.e. preload)
+- Reduction in LVEDV
+
+## Cardiology, Valsalva Maneuver %%
 Louder systolic murmur with Valsalva?
 - Hypertrophic obstructive cardiomyopathy
 
@@ -100,6 +106,14 @@ Softer systolic murmur with handgrip, & explain?
 Softer systolic murmur with standing-to-squatting, & explain?
 - Hypertrophic obstructive cardiomyopathy
 - Increased preload & ventricular size, thus reducing systolic HOCM murmur
+
+## Cardiology, Hypertrophic Cardiomyopathy %%
+Features of HOCM?
+- Last systolic ejection murmur at LSB, pansystolic murmur at apex +/- S4
+- sharp, rising, jerky pulse
+- prominent a wave
+- double/triple apical impulse
+- LVH on ECG
 
 ## Cardiology, Primary Tricuspid Regurgitation %%
 Causes of primary tricuspid regurgitation
@@ -204,3 +218,9 @@ Causes of single S2
 - Severe aortic stenosis
 - Severe aortic regurgitation
 - Congenital absence of pulmonic valve
+
+## Cardiology, Ebstein anomaly %%
+What is Ebstein's anomaly?
+- Congenital heart abnormality
+- Septal and posterior tricuspid leaflets displaced toward the apex
+- Associated with TR, PFO, arrhythmias
