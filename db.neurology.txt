@@ -101,3 +101,22 @@ Causes of Horner's
 - ICA aneurysm
 - Endarterectomy complication
 - Demyelinating disorder
+
+## Neurology, CMT %%
+What is Charcot-Marie-Tooth Disease?
+- Hereditary motor sensory neuropathy
+- Most common is CMT1A, an autosomal dominant, demyelinating neuropathy
+- In CMT1A, PMP22 duplication leads to disease
+
+## Neurology, CMT %%
+What are the clinical features of CMT disease?
+- Distal weakness
+- Atrophy
+- Pes cavus
+- Hammertoes
+- "Storks legs"/"Champagne bottle legs"
+
+## Neurology, CMT %%
+What would you expect on NCS/EMG of patients with CMT?
+- Slow conduction velocity in both motor and sensory fibres
+- Normal EMG
