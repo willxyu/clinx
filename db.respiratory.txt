@@ -111,3 +111,15 @@ Signs of pulmonary hypertension?
 - PR murmur (severe)
 - Pulsatile liver
 - Peripheral oedema
+
+## Respiratory, Clubbing %%
+Causes of clubbing?
+- chronic suppurative disease (bronchiectasis, abscess)
+- lung carcinoma (not small cell)
+- cystic fibrosis
+- mesothelioma
+- mediastinal disease (thymoma, lymphoma, carcinoma)
+- infective endocarditis
+- cyanotic congenital heart disease
+- coeliac disease, inflammatory bowel disease
+- familial
