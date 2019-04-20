@@ -49,3 +49,36 @@ Causes of pulsatile liver?
 - Tricuspid regurgitation
 - Hepatocellular carcinoma
 - Arteriovenous malformations
+
+## Abdominal, Hepatic %%
+Causes of tender liver?
+- Acute hepatitis
+- Rapid engorgement (right heart failure, Budd-Chiari)
+- Hepatocellular carcinoma
+
+## Abdominal, Spleen %%
+Distinguishing features of a spleen?
+- No palpable upper border
+- Notch
+- Inferomedial movement
+- Not ballotable
+- Not resonant
+- Friction rub
+
+## Abdominal, Renal Mass %%
+Causes of a renal mass?
+- Hydro/pyonephrosis
+- Hypernephroma (RCC)
+- Renal vein thrombosis, acute
+- Polycystic kidneys (bilateral more often)
+- Amyloid, lymphoma (bilateral)
+- Acromegaly (bilateral)
+- Solitary kidney
+
+## Abdominal, Polycystic Kidney %%
+What else should you check when you find polycystic kidneys?
+- Blood pressure
+- Anaemia/polycythaemia
+- Hepatic cysts
+- Splenic cysts
+- Haematuria
