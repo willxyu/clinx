@@ -71,3 +71,37 @@ What features are important to describe in examining a goitre?
 - Carotid pulsations (malignant occlusion)
 - Sternocleidomastoid function (infiltration)
 - Tracheal position
+
+## Endocrine, Autonomic Neuropathy %%
+What are the features of autonomic neuropathy?
+- Loss of sweating
+- Valsalva maneuvre causes no slowing of heart rate
+- Nocturnal diarrhoea
+- Urinary retention
+- Erectile dysfunction
+- Postural hypotension
+
+## Endocrine, Diabetic Retinopathy %%
+Features of non-proliferative diabetic retinopathy?
+- Inner retinal dot-haemorrhages
+- Nerve layer blot-haemorrhages
+- Hard exudates (capillary leakage)
+- Soft exudates (microinfarcts)
+- Microaneurysms
+- Dilated veins
+
+## Endocrine, Diabetic Retinopathy %%
+Features of proliferative diabetic retinopathy?
+- Neo-proliferation
+- Vitreous haemorrhage
+- Scar formation
+- Retinal detachment
+- Laser scars
+
+## Endocrine, Hirsutism %%
+Causes of hirsutism?
+- Drugs (phenytoin, diazoxide, streptomycin, exogenous steroids/androgens)
+- Ovarian (stromal ovarian cancer)
+- Adrenal (Cushing's syndrome, Congenital Adrenal Hyperplasia, virilising adrenal tumour)
+- Polycystic ovarian syndrome
+- Acromegaly, porphyria cutanea tarda
