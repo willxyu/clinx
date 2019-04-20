@@ -102,13 +102,13 @@ Causes of Horner's
 - Endarterectomy complication
 - Demyelinating disorder
 
-## Neurology, CMT %%
+## Neurology, Charcot-Marie-Tooth %%
 What is Charcot-Marie-Tooth Disease?
 - Hereditary motor sensory neuropathy
 - Most common is CMT1A, an autosomal dominant, demyelinating neuropathy
 - In CMT1A, PMP22 duplication leads to disease
 
-## Neurology, CMT %%
+## Neurology, Charcot-Marie-Tooth %%
 What are the clinical features of CMT disease?
 - Distal weakness
 - Atrophy
@@ -116,7 +116,52 @@ What are the clinical features of CMT disease?
 - Hammertoes
 - "Storks legs"/"Champagne bottle legs"
 
-## Neurology, CMT %%
+## Neurology, Charcot-Marie-Tooth %%
 What would you expect on NCS/EMG of patients with CMT?
 - Slow conduction velocity in both motor and sensory fibres
 - Normal EMG
+
+## Neurology, Cortical Signs %%
+What are the cortical signs of dominant hemisphere injury?
+- Sensory inattention
+- Visual inattention
+- Acalculia
+- Agraphia
+- Left-right disorientation
+- Finger agnosia
+- Consider astereognosis & agraphaesthesia
+
+## Neurology, Trapezius %%
+In examining the trapezius, what instructions should be given & which nerve roots could be affected?
+- "Lift your shoulders against me."
+- Inspect for winging of scapula
+- Cranial nerve 11 (Accessory), C3, C4
+
+## Neurology, Peripheral Neuropathy %%
+Causes of peripheral neuropathy?
+- Drugs (isoniazid, vincristine, phenytoin, amiodarone, etc)
+- Alcohol
+- Amyloidosis
+- B6 excess
+- B1, B12 deficiency
+- Connective (SLE, polyarteritis nodosa)
+- Metabolic: diabetes, uraemia, hypothyroidism, porphyria
+- Immune: Guillain-Barre
+- Tumour (lung carcinoma), idiopathic, hereditary
+
+## Neurology, Motor Neuropathy %%
+Causes of motor neuropathy?
+- Gullain-Barre, CIDP
+- Charcot-Marie-Tooth
+- Acute intermittent porphyria
+- Diabetes
+- Lead poisoning
+- Multifocal motor neuropathy
+
+## Neurology, Charcot-Marie-Tooth %%
+What are the clinical manifestations in the foot for CMT?
+- Hindfoot varus & equinus
+- Forefoot pronation
+- Pes Cavus
+- Flexion deformity of the first metatarsal
+- Claw toes
