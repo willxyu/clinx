@@ -42,3 +42,10 @@ Xray clues of psoriatic arthritis?
 - Pencil & cup deformities
 - Periostitis (fluffy)
 - Ankylosis of joint
+
+## Rheumatology, Rheumatoid Arthritis %%
+Xray clues of rheumatoid arthritis?
+- Marginal erosions
+- Joint space narrowing
+- Juxta-articular osteopaenia
+- Soft tissue swelling
