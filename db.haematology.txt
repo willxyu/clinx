@@ -1,0 +1,10 @@
+## Haematology, Lymphadenopathy %%
+Causes of generalised lymphadenopathy?
+- Lymphoma (rubbery)
+- Leukemia (CLL, ALL)
+- Malignant metastases
+- Viral/protozoal infections (CMV, HIV, EBV, toxoplasmosis)
+- Bacterial infections (Tuberculosis, brucellosis)
+- Connective tissue diseases (rheumatoid arthritis, systemic lupus)
+- Infiltrative disease (sarcoidosis)
+- Drugs (phenytoin, pseudolymphoma)
