@@ -224,3 +224,30 @@ What is Ebstein's anomaly?
 - Congenital heart abnormality
 - Septal and posterior tricuspid leaflets displaced toward the apex
 - Associated with TR, PFO, arrhythmias
+
+## Cardiology, Kussmaul's sign %%
+What is Kussmaul's sign?
+- Increase in the jugular venous pressure with inspiration (not usually the case)
+- Any restriction to the right ventricle from filling can do this (pericarditis, tamponade)
+
+## Cardiology, Murmurs %%
+How is the loudness (not severity) of murmurs graded?
+- Grade I: Heard by expert in optimum conditions
+- Grade II: Heard by non-expert in optimum conditions
+- Grade III: Easily heard
+- Grade IV: Palpable thrill
+- Grade V: Wide area, palpable thrill
+- Grade VI: No stethoscope required
+
+## Cardiology, S3 %%
+What is a third heart sound and what causes it?
+- The passive filling of ventricles in systole
+- Caused by high volume atria (volume overload, mitral regurgitation, aortic regurgitation)
+
+## Cardiology, Infective Endocarditis %%
+What are the signs of infective endocarditis?
+- Splinter haemorrhages
+- Janeway lesions
+- Osler nodes
+- Roth spots
+- Haematuria
