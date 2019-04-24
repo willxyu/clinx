@@ -49,3 +49,15 @@ Xray clues of rheumatoid arthritis?
 - Joint space narrowing
 - Juxta-articular osteopaenia
 - Soft tissue swelling
+
+## Rheumatology, Rheumatoid Arthritis %%
+What are the extra-articular manifestations of RA?
+- Rheumatoid nodules
+- Interstitial lung disease
+- Pleural effusion
+- Caplan syndrome
+- Felty's Syndrome
+- Sjogren's syndrome
+- Scleritis/episcleritis
+- Uveitis 
+- Pericarditis
