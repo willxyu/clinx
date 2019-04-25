@@ -8,6 +8,12 @@ Systemic manifestations of ankylosing spondylitis?
 - Anterior uveitis
 - Secondary amyloidosis
 
+## Rheumatology, Ankylosing Spondylitis %%
+Differentials for Ankylosing Spondylitis?
+- Reactive Arthritis
+- Enteropathic spondyloarthropathy
+- Psoriatic Arthritis
+
 ## Rheumatology, Sacroiliitis %%
 New York Grading of sacroiliitis?
 - I: Joint blurring
@@ -59,5 +65,11 @@ What are the extra-articular manifestations of RA?
 - Felty's Syndrome
 - Sjogren's syndrome
 - Scleritis/episcleritis
-- Uveitis 
+- Uveitis
 - Pericarditis
+
+## Rheumatology, Ehlers-Danlos %%
+What are the manifestations of Ehlers-Danlos?
+- Joint hypermobility
+- Skin hyperextensibility
+- Mitral valve prolapse
