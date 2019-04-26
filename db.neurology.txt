@@ -165,3 +165,12 @@ What are the clinical manifestations in the foot for CMT?
 - Pes Cavus
 - Flexion deformity of the first metatarsal
 - Claw toes
+
+## Neurology, Diplopia %%
+Causes of binocular diplopia?
+- Cranial nerve palsies
+- Dysthyroid eye disease
+- Myasthenia gravis
+- Demyelination
+- Opthalmoplegic migraine
+- Decompensated squint
