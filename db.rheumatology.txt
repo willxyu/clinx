@@ -56,6 +56,28 @@ Xray clues of rheumatoid arthritis?
 - Juxta-articular osteopaenia
 - Soft tissue swelling
 
+## Rheumatology, Scleroderma %%
+Describe the diagnostic facies of scleroderma, and associated signs to look for.
+- Pinched nose
+- Microstomia
+- Facial telangiectasia
+- Then, fingertip ulceration
+- Capillary infarction in nailbeds
+- Calcinosis
+- Sclerodactyly
+- Loud P2
+- Fine inspiratory crepitations, basally
+
+## Rheumatology, Scleroderma %%
+Which investigations aid you in your management of scleroderma?
+- urine dipstick for proteinuria & haematuria
+- lung function tests
+- anti-centromere Ab
+- anti-Scl70 Ab
+- creatinine
+- haematocrit & red cell count
+- CXR or HRCT
+
 ## Rheumatology, Rheumatoid Arthritis %%
 What are the extra-articular manifestations of RA?
 - Rheumatoid nodules
