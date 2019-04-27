@@ -171,7 +171,7 @@ What is Friedreich's ataxia?
 - Hereditary disease with neurological symptoms, cardiomyopathy, and DM
 - Loss of function of frataxin (FXN) due to trinucleotide expansion (GAA)
 
-# Neurology, Friedreich %%
+## Neurology, Friedreich %%
 Symptoms of Friedreich's ataxia?
 - Progressive ataxia of all limbs and gait
 - Loss of deep tendon reflexes
