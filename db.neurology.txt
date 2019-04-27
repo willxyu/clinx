@@ -174,3 +174,28 @@ Causes of binocular diplopia?
 - Demyelination
 - Opthalmoplegic migraine
 - Decompensated squint
+
+## Neurology, Friedreich %%
+What is Friedreich's ataxia?
+- Hereditary disease with neurological symptoms, cardiomyopathy, and DM
+- Loss of function of frataxin (FXN) due to trinucleotide expansion (GAA)
+
+## Neurology, Friedreich %%
+Symptoms of Friedreich's ataxia?
+- Progressive ataxia of all limbs and gait
+- Loss of deep tendon reflexes
+- Distal lower limb weakness
+- Cerebellar dysarthria
+- Dorsal column sensory loss
+- Hypertrophic cardiomyopathy
+- Diabetes mellitus
+
+## Neurology, Ptosis %%
+- Myasthenia Gravis
+- Myotonic Dystrophy
+- Facioscapulohumeral dystrophy
+- Congenital
+- CN III palsy
+- Thyrotoxic myopathy
+- Horner's Syndrome
+- Tabes dorsalis
