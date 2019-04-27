@@ -82,3 +82,34 @@ What else should you check when you find polycystic kidneys?
 - Hepatic cysts
 - Splenic cysts
 - Haematuria
+
+## Abdominal, Jaundice %%
+Differentials for jaundice?
+- Increased turnover (haemolysis)
+- Ineffective erythropoeisis (sickle cell)
+- Hepatic congestion (cardiac failure, rifampicin)
+- Impaired conjugation (Gilbert's syndrome)
+- Hepatocellular dysfunction (viral hepatitides, alcoholic cirrhosis, haemachromatosis, Wilson's disease, alpha-1)
+- Impaired excretion (alcoholic liver disease, primary biliary cirrhosis, ascending cholangitis, pancreatic obstruction)
+
+## Abdominal, Haemachromatosis %%
+You find isolated hepatomegaly with slate-grey skin pigmentation. What are concurrent signs of haemachromatosis?
+- Scant axillary hair
+- Abdominal lipodystrophy
+- Displaced apex beat from cardiomyopathy
+- Second & third metacarpophalangeal joint arthropathy
+- Testicular atrophy
+
+## Abdominal, Haemachromatosis %%
+What tests will confirm a clinical suspicion of haemachromatosis?
+- Initially, transferrin saturation more than 40 percent
+- Serum ferritin of more than 1,000 micrograms per litre
+- HFE genotyping looking for C282Y or H63D
+- MRI liver
+- Liver biopsy with Perl staining
+
+## Abdominal, Haemachromatosis %%
+Aside from diagnostic tests for haemachromatosis, what are tests would be useful in your management?
+- Any diagnostic battery for diabetes mellitus
+- 12-lead ECG & echocardiogram for cardiomyopathy
+- Assessment of gonadotrophin secretion & other pituitary function
