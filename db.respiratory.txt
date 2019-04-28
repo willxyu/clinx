@@ -65,21 +65,21 @@ Diagnostic criteria for COPD?
 ## Respiratory, COPD %%
 Severity of COPD?
 - Mild:
-- Few symptoms
-- Dyspnoea on moderate exertion
-- Little to no effect on ADLs
-- FEV1 ~ 60 - 80% predicted
+-- Few symptoms
+-- Dyspnoea on moderate exertion
+-- Little to no effect on ADLs
+-- FEV1 ~ 60 - 80% predicted
 - Moderate:
-- Increasing dyspnoea
-- SOB walking flats
-- Cough & sputum
-- Infections with steroid use
-- FEV1 ~ 40 - 59% predicted
+-- Increasing dyspnoea
+-- SOB walking flats
+-- Cough & sputum
+-- Infections with steroid use
+-- FEV1 ~ 40 - 59% predicted
 - Severe:
-- Dyspnoea on minimal exertion
-- Severely limited ADLs
-- Chronic cough
-- FEV1 < 40% predicted
+-- Dyspnoea on minimal exertion
+-- Severely limited ADLs
+-- Chronic cough
+-- FEV1 < 40% predicted
 
 ## Respiratory, Bronchiectasis %%
 Causes of bronchiectasis?

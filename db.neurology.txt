@@ -191,6 +191,7 @@ Symptoms of Friedreich's ataxia?
 - Diabetes mellitus
 
 ## Neurology, Ptosis %%
+Causes of ptosis?
 - Myasthenia Gravis
 - Myotonic Dystrophy
 - Facioscapulohumeral dystrophy
@@ -199,3 +200,98 @@ Symptoms of Friedreich's ataxia?
 - Thyrotoxic myopathy
 - Horner's Syndrome
 - Tabes dorsalis
+
+## Neurology, Bulbar Palsy %%
+What are the clinical features of a bulbar palsy?
+- Lower motor neuron changes in glossopharyngeal, vagus & accessory nerves
+- Absent palatal movement
+- Wasted tongue with fasciculations
+- Hypernasal speech > "Indistinct (flaccid), lacks modulation & has a nasal twang..."
+- Absent gag reflex
+- Absent jaw reflex
+
+## Neurology, Pseudobulbar Palsy %%
+What are the clinical features of a pseudobulbar palsy?
+- Upper motor neuron changes in glossopharyngeal, vagus & accessory nerves
+- Absent palatal movement
+- Spastic tongue > "Cannot be protruded, lies on the floor of the mouth and is small & tight."
+- Spastic speech > "A monotonous, slurred, high-pitched dysarthria sounding like the patient is squeezing words."
+- Increased gag reflex
+- Increased jaw reflex
+- Labile emotions
+
+## Neurology, Kennedy's Disease %%
+What are the key signs of Kennedy's Disease?
+- Facial & perioral fasciculations
+- Limb-girdle weakness
+- Depressed reflexes
+- Dysarthria & dysphagia in 50%
+- Gynaecomastia
+- Signs of testicular atrophy & diabetes mellitus
+- Caused by triplet CAG repeat in Androgen Receptor gene, is X-linked
+
+## Neurology, Electromyography %%
+You diagnose polymyositis in your patient. What are the potential EMG findings?
+- Fibrillation potentials
+- Positive sharp waves (muscle irritability)
+- Complex repetitive discharges
+
+## Neurology, Electromyography %%
+You congratulate yourself on diagnosing myotonic dystrophy. What are the potential EMG findings?
+- Myotonic discharges
+- These are high-frequency from single muscle fibers that vary in amplitude & frequency
+
+## Neurology, Electromyography %%
+You diagnose an anterior horn cell disorder in your patient. What are the potential EMG findings?
+- Fasciculation potentials
+
+## Neurology, Nerve Conduction Study %%
+Features of demyelinating diseases on nerve conduction studies?
+- Slowed conduction velocity
+- Terminal motor latency prolongation
+- Compound motor & sensory nerve action potential dispersion
+- Conduction block
+
+## Neurology, Demyelination %%
+Name some peripherally demyelinating diseases.
+- Acute inflammatory demyelinating polyneuropathy
+- Chronic inflammatory demyelinating polyneuropathy
+- Anti-MAG peripheral neuropathy
+- Charcot-Marie-Tooth disease
+- Hereditary neuropathy with liability to pressure palsy
+- Copper deficiency
+
+## Neurology, Demyelination %%
+Name some central nervous system demyelinating disease.
+- Myelinoclastic (myelin destruction)
+-- Multiple sclerosis
+-- Neuromyelitis optica (Devic's)
+- Leukodystrophic (myelin production)
+-- B12 deficiency
+-- Central pontine myelinosis
+-- Tabes dorsalis
+-- Progressive multifocal leukoencephalopathy
+-- Metachromic leukodystrophy (mitochondrial disease)
+
+## Neurology, Pontine stroke %%
+What are the symptoms of a medial inferior pontine stroke?
+- Ipsilateral
+-- Paralysis of conjugate gaze to side of lesion
+-- Nystagmus (vestibular nuc.)
+-- Ataxia of limbs & gait (middle cerebellar peduncle)
+-- Lateral gaze diplopia (abducens n.)
+- Contralateral
+-- Hemiplegia including face (corticobulbar & corticospinal tract, not VII n)
+-- Tactile & proproceptive loss (medial lemniscus)
+
+## Neurology, Pontine stroke %%
+What are the symptoms of a lateral inferior pontine stroke?
+- Ipsilateral
+-- Facial paralysis (VII n)
+-- Facial sensory loss (V n descending tract)
+-- Paralysis of conjugate gaze to side of lesion
+-- Multidirectional nystagmus & oscillopsia (vestibular n)
+-- Deafness, tinnitus (auditory n)
+-- Ataxia (middle cerebellar peduncle)
+- Contralateral
+-- Impaired pain & temperature over body ± face (spinothalamic tract)
