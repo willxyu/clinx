@@ -191,6 +191,7 @@ Symptoms of Friedreich's ataxia?
 - Diabetes mellitus
 
 ## Neurology, Ptosis %%
+Causes of ptosis?
 - Myasthenia Gravis
 - Myotonic Dystrophy
 - Facioscapulohumeral dystrophy
@@ -199,3 +200,32 @@ Symptoms of Friedreich's ataxia?
 - Thyrotoxic myopathy
 - Horner's Syndrome
 - Tabes dorsalis
+
+## Neurology, Bulbar Palsy %%
+What are the clinical features of a bulbar palsy?
+- Lower motor neuron changes in glossopharyngeal, vagus & accessory nerves
+- Absent palatal movement
+- Wasted tongue with fasciculations
+- Hypernasal speech > "Indistinct (flaccid), lacks modulation & has a nasal twang..."
+- Absent gag reflex
+- Absent jaw reflex
+
+## Neurology, Pseudobulbar Palsy %%
+What are the clinical features of a pseudobulbar palsy?
+- Upper motor neuron changes in glossopharyngeal, vagus & accessory nerves
+- Absent palatal movement
+- Spastic tongue > "Cannot be protruded, lies on the floor of the mouth and is small & tight."
+- Spastic speech > "A monotonous, slurred, high-pitched dysarthria sounding like the patient is squeezing words."
+- Increased gag reflex
+- Increased jaw reflex
+- Labile emotions
+
+## Neurology, Kennedy's Disease %%
+What are the key signs of Kennedy's Disease?
+- Facial & perioral fasciculations
+- Limb-girdle weakness
+- Depressed reflexes
+- Dysarthria & dysphagia in 50%
+- Gynaecomastia
+- Signs of testicular atrophy & diabetes mellitus
+- Caused by triplet CAG repeat in Androgen Receptor gene, is X-linked
