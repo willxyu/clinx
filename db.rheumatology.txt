@@ -95,3 +95,66 @@ What are the manifestations of Ehlers-Danlos?
 - Joint hypermobility
 - Skin hyperextensibility
 - Mitral valve prolapse
+
+## Rheumatology, Hypermobility %%
+Which joints are tested for hypermobility?
+- Dorsiflexion to 90* of the fifth finger in relation to the forearm
+- Apposition of the thumb onto the flexor aspect of the forearm
+- Hyperextension of the elbows more than 10 degrees
+- Hyperextensibility of the knees more than 10 degrees
+- Waist flexion with palms on the floor
+- This is known as the Beighton Hypermobility Scale
+
+## Rheumatology, Distal Interphalangeal Joints %%
+Inflammation of the distal interphalangeal joints suggest which rheumatological diseases?
+- Osteoarthritis
+- Psoriatic arthritis
+- Reactive arthritis
+
+## Rheumatology, Proximal Interphalangeal Joints %%
+Inflammation of the proximal interphalangeal joints suggest which rheumatological diseases?
+- Osteoarthritis
+- Systemic lupus erythematous
+- Rheumatoid arthritis
+- Psoriatic arthritis
+
+## Rheumatology, Metacarpophalangeal Joints %%
+Inflammation of the metacarpophalangeal joints suggest which rheumatological diseases?
+- Rheumatoid arthritis
+- Pseudogout
+- Haemachromatosis
+
+## Rheumatology, Wrist %%
+Inflammation of the wrist joints suggest which rheumatological diseases?
+- Pseudogout
+- Gonococcal arthritis
+- Juvenile arthritis
+- Carpal tunnel syndrome
+
+## Rheumatology, Anti-Nuclear Antibody %%
+You diagnose CREST or limited scleroderma in your patient. What pattern of ANA-positivity are you most likely to see?
+- Centromeric pattern of ANA antibodies
+
+## Rheumatology, Anti-Nuclear Antibody %%
+You diagnose dermatomyositis clinically in your patient. What pattern of ANA-positivity are you most likely to see?
+- Speckled pattern of ANA antibodies
+- These could likely be Anti-PM-1 antibodies
+
+## Rheumatology, Anti-Nuclear Antibody %%
+You diagnose diffuse scleroderma in your patient. What pattern of ANA-positivity are you most likely to see?
+- Speckled pattern of ANA antibodies
+- These could be Anti-Scl-70 antibodies (40% of diffuse scleroderma patients)
+
+## Rheumatology, Anti-Nuclear Antibody %%
+You diagnose systemic lupus erythematous in your patient. What pattern of ANA-positivity are you most likely to see?
+- Peripheral (rim) pattern of ANA antibodies
+- These are anti-dsDNA antibodies (50% of SLE)
+
+## Rheumatology, Calcium Pyrophosphate Deposition Disease %%
+Name some conditions associated with Calcium Pyrophospate Deposition Disease.
+- (Ageing)
+- Primary hyperparathyroidism
+- Haemochromatosis
+- Chronic gout
+- Gitelman's syndrome
+- Hypo phosphatasia & hypo magnesemia
