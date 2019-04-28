@@ -248,8 +248,8 @@ You diagnose an anterior horn cell disorder in your patient. What are the potent
 ## Neurology, Nerve Conduction Study %%
 Features of demyelinating diseases on nerve conduction studies?
 - Slowed conduction velocity
-- Terminal motor latency prolongation
-- Compound motor & sensory nerve action potential dispersion
+- Prolonged terminal motor latency
+- Dispersed compound motor & sensory nerve action potential
 - Conduction block
 
 ## Neurology, Demyelination %%
