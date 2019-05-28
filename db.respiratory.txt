@@ -130,5 +130,40 @@ Causes of bronchiectasis?
 - Mucociliary clearance defects: Cystic fibrosis, primary ciliary dyskinesia, Kartagener's syndrome, Young's syndrome
 - Immunodeficiency: Primary immunoglobulin deficiency or secondary (HIV)
 - Mechanical: Obstruction from tumour or foreign body
-- Immunological: ABPA
+- Immunological: Allergic bronchopulmonary aspergillosis
 $+ The MRCP PACES Handbook, Second Edition. S Ghafur, PK Judge, R Kitchen, S Blows. 2017 $$
+
+## Respiratory, Transplantation %%
+What are the criteria specific to Chronic Obstructive Pulmonary Disease in lung transplantation?
+- FEV1 < 20% predicted
+- BODE index ≥ 7
+- Moderate to severe pulmonary hypertension
+- pCO2 > 50 mmHg and/or pO2 < 60 mmHg
+- Severe exarcebation with hypercapnic respiratory failure or frequent exarcebations
+$+ TSANZ Clinical Guidelines for Organ Transplantation from Deceased Donors. 2017 p70 $$
+
+## Respiratory, Transplantation %%
+What are the criteria specific to Cystic Fibrosis in lung transplantation?
+- Frequent hospitalisation
+- FEV1 < 30% predicted with downward trajectory
+- Increasing antibiotic dependence or resistance
+- Life-threatening haemoptysis or pneumothorax
+- Requirement for non-invasive ventilation
+- Development of pulmonary hypertension
+- pCO2 > 50 mmHg and/or pO2 < 60 mmHg
+$+ TSANZ Clinical Guidelines for Organ Transplantation from Deceased Donors. 2017 p71 $$
+
+## Respiratory, Transplantation %%
+What are the criteria specific to Pulmonary Fibrosis in lung transplantation?
+- In 6 months, Forced Vital Capacity -10% and Diffusing Capacity of Lungs for Carbon Monoxide -15%
+- Development of pulmonary hypertension
+- Hospitalisation because of respiratory decline, acute exarcebation or pneumothorax
+- Significant exercise-associated desaturation or oxygen requirement
+$+ TSANZ Clinical Guidelines for Organ Transplantation from Deceased Donors. 2017 p71 $$
+
+## Respiratory, Transplantation %%
+What are the criteria specific to Pulmonary Vascular diseases in lung transplantation?
+- NYHA Class III or IV despite escalation of pulmonary vasodilator therapy
+- Refractory or progressive right heart failure
+- Mean right atrial pressure of > 15 mmHg, cardiac index < 2L/min/m2, & mean pulmonary arterial pressure > 50 mmHg
+$+ TSANZ Clinical Guidelines for Organ Transplantation from Deceased Donors. 2017 p71 $$
