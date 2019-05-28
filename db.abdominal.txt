@@ -109,7 +109,7 @@ What tests will confirm a clinical suspicion of haemachromatosis?
 - Liver biopsy with Perl staining
 
 ## Abdominal, Haemachromatosis %%
-Aside from diagnostic tests for haemachromatosis, what are tests would be useful in your management?
+Aside from diagnostic tests for haemachromatosis, what other tests would be useful in your management?
 - Any diagnostic battery for diabetes mellitus
 - 12-lead ECG & echocardiogram for cardiomyopathy
 - Assessment of gonadotrophin secretion & other pituitary function
