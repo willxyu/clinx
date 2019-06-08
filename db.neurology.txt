@@ -295,3 +295,9 @@ What are the symptoms of a lateral inferior pontine stroke?
 -- Ataxia (middle cerebellar peduncle)
 - Contralateral
 -- Impaired pain & temperature over body ± face (spinothalamic tract)
+
+## Neurology, Parkinson's Disease %%
+What is the fundamental difference between the lead-pipe rigidity of Parkinsonism & clasp-knife spasticity of upper motor neuron injury?
+- Velocity independent
+- Directionally independent
+$+ Approach to the Exam for Parkinson's Disease. Stanford Medicine 25. 2018. <a href="https://youtu.be/cxHpFWKIfGw">Youtube video</a>$$
