@@ -59,8 +59,8 @@ Radiological findings of UIP?
 ## Respiratory, COPD %%
 Diagnostic criteria for COPD?
 - FEV1/FVC ratio < 0.7
-- Irreversible/partially bronchodilator responsive (deltaFEV1 <= 400mL)
-- Presence of typical symptoms and risk factors (dyspnoea, cough +/- productive, smoking)
+- Irreversible/partially bronchodilator responsive (δFEV1 ≤ 400mL)
+- Presence of typical symptoms and risk factors (dyspnoea, cough ± productive, smoking)
 
 ## Respiratory, COPD %%
 Severity of COPD?
@@ -85,8 +85,8 @@ Severity of COPD?
 Causes of bronchiectasis?
 - Pulmonary infections, esp. Childhood recurrent infections, Mycobacterial, Nocardia
 - Primary ciliary dysfunction, e.g. Kartagener's
-- CF
-- ABPA
+- Cystic fibrosis
+- Allergic bronchopulmonary aspergillosis
 - Airway obstruction, e.g. foreign body, tumour
 - Primary or secondary immunodeficiency, e.g. hypogammaglobulinaemia
 
@@ -94,9 +94,9 @@ Causes of bronchiectasis?
 Indications for a lobectomy?
 - Bronchiectasis
 - Malignancy
-- TB
+- Tuberculosis
 - Lung abscess
-- CF
+- Cystic fibrosis
 - Unknown solitary lung nodule
 
 ## Respiratory, Pulmonary Hypertension %%
