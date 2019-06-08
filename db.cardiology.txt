@@ -385,3 +385,14 @@ Fixed splitting of the second heart sound associated with left-axis deviation & 
 - Can be associated with mitral regurgitation, tricuspid regurgitation or ventral septal defects
 - Can be associated with Down's syndrome and skeletal upper limb defects (Holt-Oram syndrome)
 $+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p332 $$
+
+## Cardiology, Coarctation of Aorta %%
+What are signs of coarctation of the aorta on CXR?
+- Small aortic knuckle
+- Rib notching
+- Enlarged left subclavian artery
+- Aortic prestenotic & poststenotic dilation
+- Dilated ascending aorta
+- Aortic indentation
+- Enlarged left ventricle
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p334-335 $$
