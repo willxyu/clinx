@@ -229,6 +229,7 @@ Four features of tetralogy of Fallot
 - Right ventricular outflow tract obstruction
 - Overriding aorta causing cyanosis
 - Right ventricular hypertrophy
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p337 $$
 
 ## Cardiology, Tetralogy of Fallot %%
 Describe steps of surgical correction of tetralogy of Fallot, & subsequent exam findings
@@ -337,3 +338,49 @@ Causes of a right S3?
 - Right ventricular failure
 - Constrictive pericarditis
 $+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p316 $$
+
+## Cardiology, Apex Beat %%
+What is a pressure-loaded apex beat, and what are some causes?
+- This is a hyperdynamic beat that is systolic overloaded, and is felt as a
+- Forceful & sustained impulse, caused by
+- Aortic stenosis & hypertension
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p315 $$
+
+## Cardiology, Apex Beat %%
+What is a volume-loaded apex beat, and what are some causes?
+- This is a hyperkinetic beat that is diastolic overloaded, and is felt as a
+- Forceful but unsustained impulse, caused by
+- Aortic regurgitation or mitral regurgitation
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p315 $$
+
+## Cardiology, Apex Beat %%
+What causes a tapping apex beat?
+- Mitral stenosis
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p315 $$
+
+## Cardiology, Hypertension %%
+Fundoscopic changes in hypertension?
+- Grade I: silver wiring
+- Grade II: arteriovenous nipping
+- Grade III: flame shaped haemorrhages, soft exudates (cotton wool spots from ischaemia), hard exudates (lipid residues)
+- Grade IV: papilloedema
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p338 $$
+
+## Cardiology, Peripheral Edema %%
+Causes of peripheral edema?
+- Calcium channel blockers
+- Congestive cardiac failure, cor pulmonale, constrictive pericarditis
+- Nephrotic syndrome
+- Cirrhosis
+- Malabsorption
+- Protein losing enteropathy
+- Myxoedema
+- Cyclical edema
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p340 $$
+
+## Cardiology, Atrial Septal Defect %%
+Fixed splitting of the second heart sound associated with left-axis deviation & right bundle branch block suggests which specific congenital abnormality?
+- Atrial septal defect of ostium primum
+- Can be associated with mitral regurgitation, tricuspid regurgitation or ventral septal defects
+- Can be associated with Down's syndrome and skeletal upper limb defects (Holt-Oram syndrome)
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p332 $$
