@@ -15,34 +15,49 @@ Signs of atrial septal defect?
 - ± Tricuspid area, mid-diastolic murmur
 
 ## Cardiology, Pulmonary Stenosis %%
-Signs of pulmonary stenosis?
+General signs of pulmonary stenosis?
+- Peripheral cyanosis
+- Reduced or normal peripheral pulse
+- Giant a-waves from atrial hypertrophy
+- Right ventricular heave
+- Pulmonic thrill
+- Harsh ejection systolic murmur maximal in pulmonic area
+- Accentuation with inspiration
+- Ejection click
+- Presystolic pulsation of the liver
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p329 $$
+
+## Cardiology, Pulmonary Stenosis %%
+Signs of severe pulmonary stenosis?
 - Late peaking, ejection systolic murmur
 - Loss of ejection click (severe)
-- Ejection click (non-severe)
 - S4, right-heart
 - Signs of right ventricular failure
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p330 $$
 
 ## Cardiology, Tricuspid Regurgitation %%
-Signs of tricuspid regurgitation?
+General signs of tricuspid regurgitation?
 - Large v-waves, JVP
 - Right ventricular heave
 - Pansystolic murmur at left lower sternal edge
 - Large pulsatile liver
 - Ascites & oedema
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p326-327 $$
 
 ## Cardiology, Mitral Valve Prolapse %%
 Signs of mitral valve prolapse?
 - High pitched, late systolic murmur
 
 ## Cardiology, Aortic regurgitation %%
-Signs of aortic regurgitation?
+Signs of severe aortic regurgitation?
 - Collapsing pulse
 - Wide pulse pressure (more than 80 mmHg)
 - Long decrescendo diastolic murmur
 - S3
 - Soft A2
-- Apex, low-pitched mid-diastolic rumble
+- Apex, low-pitched mid-diastolic rumble (Austin-Flint murmur)
 - Signs of left ventricular failure
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p324 $$
 
 ## Cardiology, Mitral Regurgitation %%
 Signs of mitral regurgitation?
@@ -79,6 +94,30 @@ Signs of pulmonary regurgitation?
 - Descrescendo diastolic murmur
 - High pitch
 - Same signs as aortic regurgitation
+
+## Cardiology, Hypertrophic Obstructive Cardiomyopathy %%
+Diagnostic signs of hypertrophic obstructive cardiomyopathy?
+- Sharp, jerky peripheral pulse
+- Prominent a-wave from forceful atrial contraction into a non-compliant ventricle
+- Double or triple apical impulse (presystolic ventricular expansion after atrial contraction)
+- Left sternal edge late systolic ejection murmur
+- Apical pansystolic murmur of mitral regurgitation
+- Fourth heart sound
+- Absence of diastolic murmur
+- Accentuation of murmur with Valsalva, standing & isotonic exercise
+- Dimunition of murmur with squatting, leg-raises & isometric exercise
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p330 $$
+
+## Cardiology, Hypertrophic Obstructive Cardiomyopathy %%
+Investigational findings in hypertrophic obstructive cardiomyopathy?
+- ECG shows left ventricular hypertrophy, lateral ST & T wave changes
+- ECG shows deep Q waves
+- ECG may show conductive abnormalities
+- CXR shows left ventricle with a hump on the border, absent valvular calcifications
+- ECHO shows asymmetrical hypertrophy of ventricular septum
+- ECHO may show systolic anterior motion of the anterior mitral valve leaflet
+- ECHO may show midsystolic closure of the aortic valve
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p330-331 $$
 
 ## Cardiology, Valsalva Maneuver %%
 Physiology of Valsalva Maneuver?
@@ -223,7 +262,13 @@ Causes of single S2
 What is Ebstein's anomaly?
 - Congenital heart abnormality
 - Septal and posterior tricuspid leaflets displaced toward the apex
-- Associated with TR, PFO, arrhythmias
+- Associated with tricuspid regurgitation, patent foramen ovale, arrhythmias
+
+## Cardiology, Ebstein's anomaly %%
+What is the typical findings of of Ebstein's anomaly on CXR?
+- Box-shaped heart
+- Narrow cardiac base
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p327 $$
 
 ## Cardiology, Kussmaul's sign %%
 What is Kussmaul's sign?
