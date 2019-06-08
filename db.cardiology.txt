@@ -300,6 +300,7 @@ What are the signs of infective endocarditis?
 - Osler nodes
 - Roth spots
 - Haematuria
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p309, 317 $$
 
 ## Cardiology, Hypertrophic Obstructive Cardiomyopathy %%
 What is the most common method of inheritance of hypertrophic obstructive cardiomyopathy?
