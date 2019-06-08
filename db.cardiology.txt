@@ -60,7 +60,7 @@ Signs of severe aortic regurgitation?
 $+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p324 $$
 
 ## Cardiology, Mitral Regurgitation %%
-Signs of mitral regurgitation?
+Signs of severe mitral regurgitation?
 - Small volume pulse
 - Displaced, forceful apex beat
 - Pansystolic murmur radiating to axilla
@@ -70,15 +70,17 @@ Signs of mitral regurgitation?
 - Early diastolic rumble
 - Atrial fibrillation
 - Signs of left ventricular failure
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p321 $$
 
 ## Cardiology, Mitral Stenosis %%
-Signs of mitral stenosis?
+Signs of severe mitral stenosis?
 - Small pulse pressure
 - Soft S1
 - Early opening snap
 - Long diastolic murmur
 - Diastolic thrill at apex beat
 - Signs of pulmonary hypertension
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p320 $$
 
 ## Cardiology, Aortic Stenosis %%
 Signs of aortic stenosis?
@@ -195,6 +197,7 @@ Causes of mitral regurgitation, chronic
 - Cardiomyopathy, hypertrophic/dilated/restrictive
 - Connective tissue diseases such as Marfan's, rheumatoid arthritis, ankylosing spondylitis
 - Congenital, atrioventricular canal defect
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p321 $$
 
 ## Cardiology, Mitral Valve Prolapse %%
 Causes of mitral valve prolapse
@@ -300,3 +303,37 @@ What are the signs of infective endocarditis?
 ## Cardiology, Hypertrophic Obstructive Cardiomyopathy %%
 What is the most common method of inheritance of hypertrophic obstructive cardiomyopathy?
 - Autosomal dominant
+
+## Cardiology, CXR %%
+What are the signs of a big left atrium on a CXR?
+- Double left atrial shadow
+- Displaced left main bronchus
+- Big left atrial appendage
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p320 $$
+
+## Cardiology, CXR %%
+What are the signs of pulmonary hypertension on a CXR?
+- Large central pulmonary arteries
+- Pruned peripheral arterial tree
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p320 $$
+
+## Cardiology, S3 %%
+What is the mechanism of a third heart sound?
+- Possibly tautening of the mitral/tricuspid cusps after rapid diastolic filling
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p316 $$
+
+## Cardiology, S3 %%
+Causes of a left S3?
+- Pregnancy
+- Left ventricular failure
+- Aortic regurgitation
+- Mitral regurgitation
+- Ventricular septal defect
+- Patent ductus arteriosus
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p316 $$
+
+## Cardiology, S3 %%
+Causes of a right S3?
+- Right ventricular failure
+- Constrictive pericarditis
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p316 $$
