@@ -456,9 +456,9 @@ $+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p434 $$
 
 ## Neurology, Upper Limb Neurology %%
 How does one separate a C8 lesion from an ulnar nerve lesion?
-- An ulnar nerve lesion spares
--- sensation medial forearm sensation, from C8,T1's medial antebrachial cutaneous nerve (medial Cord)
--- LOAF muscles from median n. (lateral two Lumbricals, Opponens pollicis, Abductor pollicis brevis, Flexor pollicis brevis)
+- An ulnar nerve lesion spares:
+- sensation medial forearm sensation, from C8,T1's medial antebrachial cutaneous nerve (medial Cord)
+- LOAF muscles from median n. (lateral two Lumbricals, Opponens pollicis, Abductor pollicis brevis, Flexor pollicis brevis)
 - A C8 lesion would affect these.
 $+ Differentiating c8-t1 radiculopathy from ulnar neuropathy: a survey of 24 spine surgeons. Stoker GE, Kim HJ, Riew KD. Global Spine J 2014. <a href="https://www.ncbi.nlm.nih.gov/pubmed/24494175">Pubmed</a>$$
 
