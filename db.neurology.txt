@@ -7,6 +7,7 @@ Causes of papilloedema?
 - Central retinal vein thrombosis
 - Cerebral venous sinus thrombosis
 - Gullain-Barre syndrome
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p419-420 $$
 
 ## Neurology, Optic Atrophy %%
 Causes of optic atrophy?
@@ -14,6 +15,7 @@ Causes of optic atrophy?
 - Glaucoma
 - Ischaemia
 - Retinitis pigmentosa/Freidrich's ataxia
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p420 $$
 
 ## Neurology, Cataracts %%
 Causes of cataract?
@@ -23,6 +25,7 @@ Causes of cataract?
 - Dystrophia myotonica, Refsum's disease
 - Glaucoma
 - Irradiation
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p420 $$
 
 ## Neurology, Lateral Medullary Syndrome %%
 Signs of lateral medullary syndrome?
@@ -139,15 +142,14 @@ In examining the trapezius, what instructions should be given & which nerve root
 
 ## Neurology, Peripheral Neuropathy %%
 Causes of peripheral neuropathy?
-- Drugs (isoniazid, vincristine, phenytoin, amiodarone, etc)
-- Alcohol
-- Amyloidosis
-- B6 excess
-- B1, B12 deficiency
-- Connective (SLE, polyarteritis nodosa)
-- Metabolic: diabetes, uraemia, hypothyroidism, porphyria
-- Immune: Guillain-Barre
-- Tumour (lung carcinoma), idiopathic, hereditary
+- M etabolic: diabetes, uraemia, hypothyroidism, porphyria
+- I mmune & infiltrative-mediated:
+-- Guillain-Barre
+-- SLE, polyarteritis nodosa (Connective)
+-- Amyloidosis (Infiltrative)
+- N utritional: B1, B12 deficiency, B6 excess, Alcohol
+- D rugs: isoniazid, vincristine, phenytoin, amiodarone, etc
+- Others: Tumour (lung carcinoma), idiopathic, hereditary
 
 ## Neurology, Motor Neuropathy %%
 Causes of motor neuropathy?
@@ -192,14 +194,17 @@ Symptoms of Friedreich's ataxia?
 
 ## Neurology, Ptosis %%
 Causes of ptosis?
-- Myasthenia Gravis
-- Myotonic Dystrophy
+- Myasthenia gravis
+- Myotonic dystrophy
 - Facioscapulohumeral dystrophy
 - Congenital
-- CN III palsy
 - Thyrotoxic myopathy
-- Horner's Syndrome
-- Tabes dorsalis
+- Botulism, snake bite
+- Mitochondrial myopathy
+- Horner's Syndrome (constricted pupil)
+- Tabes dorsalis (constricted pupil)
+- CN III palsy (dilated pupil)
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p420-421 $$
 
 ## Neurology, Bulbar Palsy %%
 What are the clinical features of a bulbar palsy?
@@ -301,3 +306,150 @@ What is the fundamental difference between the lead-pipe rigidity of Parkinsonis
 - Velocity independent
 - Directionally independent
 $+ Approach to the Exam for Parkinson's Disease. Stanford Medicine 25. 2018. <a href="https://youtu.be/cxHpFWKIfGw">Youtube video</a>$$
+
+## Neurology, Argyll Robertson pupil %%
+What is the defining feature of an Argyll Robertson pupil?
+- Accomodation normal
+- Light abnormal
+- Small, irregular, unequal pupil
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p417 $$
+
+## Neurology, Argyll Robertson pupil %%
+What are causes of an Argyll Robertson pupil?
+- Midbrain lesions, caused by:
+-- syphilis
+-- diabetes mellitus
+-- alcoholic midbrain degeneration (rare)
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p417 $$
+
+## Neurology, Oculomotor palsy %%
+What are the typical signs of oculomotor palsy?
+- Divergent strabismus ('down & out')
+- Failure to adduct & elevate the affected eye
+- Complete ptosis
+- Dilated pupil
+- Light, direct, abnormal
+- Light, indirect, abnormal
+- Accomodation, abnormal
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p421 $$
+
+## Neurology, Oculomotor palsy %%
+Causes of an oculomotor palsy?
+- Central or peripheral; centrally, 
+-- Vascular (brain stem infarction)
+-- Tumour
+-- Trauma
+-- Rarely, demyelination;
+- Peripherally,
+-- Posterior communicating artery aneurysm
+-- Intracranial hypertension (tumour)
+-- Orbital lesions (Tolosa-Hunt syndrome, a superior orbital fissure syndrome)
+-- Basal meningitis
+-- Infarction (diabetes, arteritis sparing pupil)
+-- Cavernous sinus lesion
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p422 $$
+
+## Neurology, Abducens palsy %%
+Features of an abducens nerve palsy?
+- Inability to abduct the eye
+- Unilateral esotropia in severe cases
+- Diplopia maximally to the affect side; i.e. left-most image on looking left in a left abducens nerve palsy
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p422 $$
+
+## Neurology, Abducens palsy %%
+Causes of abducens nerve palsy?
+- Bilaterally & unilaterally; bilaterally, 
+-- Wernicke's encephalopathy
+-- Raised ICP
+-- Mononeuritis multiplex
+-- Trauma
+- Unilaterally,
+-- Diabetes, vascular
+-- Trauma
+-- Idiopathy
+-- Raised ICP
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p422 $$
+
+## Neurology, Progressive Supranuclear Palsy %%
+What are the features of progressive supranuclear palsy?
+- Sequential loss of downward gaze, upward gaze, horizontal gaze
+- Pseudobulbar palsy (UMN dysarthria)
+- Long tract signs (clonus, spasticity)
+- Extrapyramidal signs (akathisia, dystonia, parkinsonism, tardive dyskinesia)
+- Dementia
+- Neck rigidity
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p424 $$
+
+## Neurology, Parinaud Syndrome %%
+What are features of Parinaud syndrome?
+- Loss of upward gaze
+- Convergence-retraction nystagmus on convergence
+- Pseudo-Argyll Robertson pupils
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p424 $$
+
+## Neurology, Parinaud Syndrome %%
+What are causes of Parinaud syndrome?
+- Central & peripheral; centrally, 
+-- Pinealoma
+-- Multiple sclerosis
+-- Vascular lesions
+- Peripherally, 
+-- Trauma
+-- Diabetes mellitus
+-- Vascular lesions
+-- Idiopathic
+-- Raised ICP
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p424 $$
+
+## Neurology, Cortical signs %%
+What are some cortical signs of dominant hemisphere pathology?
+- Acalculia
+- Agraphia
+- Left-right disorientation
+- Finger agnosia
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p430 $$
+
+## Neurology, Dysphasia %%
+What are the four general categories of dysphasia?
+- Receptive (Wernicke's, fluent)
+- Expressive (Broca's, non-fluent)
+- Conductive (Repetition)
+- Nominal (Naming)
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p432 $$
+
+## Neurology, Dysphasia %%
+Which cortical area is affected in fluent dysphasia?
+- Temporal lobe, first gyrus, posterior part
+- Wernicke's area
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p432 $$
+
+## Neurology, Dysphasia %%
+Which cortical area is affected in non-fluent dysphasia?
+- Frontal lobe, third gyrus, posterior part
+- Broca's area
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p432 $$
+
+## Neurology, Dysphasia %%
+Which cortical area is affected in conductive dysphasias?
+- Temporal lobe, arcuate fasciculus
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p432 $$
+
+## Neurology, Dysphasia %%
+Which cortical area is affected in nominal dysphasias?
+- Temporal lobe, angular gyrus
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p432 $$
+
+## Neurology, Drift %%
+Drift on arm extension may be explained by what pathologies?
+- Weakness from upper motor neuron pathology, or
+- Hypotonia from cerebellar pathology, or
+- Joint position loss from posterior column pathology
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p434 $$
+
+## Neurology, Reflexes %%
+The biceps reflex is mediated by which cervical nerve root & which peripheral nerve?
+- C5 & C6, or
+- Musculocutaneous nerve, which
+-- innervates coracobrachialis, biceps brachii, brachialis (mostly), and
+-- lateral cutaneous nerve of forearm (lateral forearm sensation)
+$+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p434 $$
